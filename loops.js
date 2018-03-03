@@ -1,4 +1,4 @@
-let forLoop = (array) => {
+var forLoop = (array) => {
   for (let i = 0, i <= 25, i+=1){
 
   }
